@@ -45,6 +45,8 @@ select, textarea */
     display: block;
     max-width: 95%;
     min-width: 95%;
+    resize: none;
+    padding: 5px;
 }
 
 /* Styling form-control Radio
