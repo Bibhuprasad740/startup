@@ -30,9 +30,13 @@ body {
     color: white;
   }
 
-  .about-description {
+  .about-brief {
     padding : 5%;
     text-align: center;
+    color: black;
+  }
+  .about-description {
+    padding-left : 5%;
     color: black;
   }
   
