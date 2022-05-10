@@ -1,0 +1,13 @@
+.carousel-inner img {
+   height: 600px !important;
+   width: 100% !important;
+}
+
+.container img {
+   height: 50%;
+   width: 50%;
+}
+
+.invitation {
+   display: flex;
+}
